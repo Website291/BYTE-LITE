@@ -58,7 +58,7 @@
       "required": true
     },
     "OWNER_NAME": {
-      "desc": "Your Name",
+      "desc": "Hashan",
       "required": false,
       "value": "TalkDrove"
     },
